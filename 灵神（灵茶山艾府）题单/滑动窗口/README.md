@@ -9,7 +9,8 @@
 
 [*模板题*](https://leetcode.cn/problems/maximum-number-of-vowels-in-a-substring-of-given-length/solutions/2809359/tao-lu-jiao-ni-jie-jue-ding-chang-hua-ch-fzfo/)
 
-题目：{#fixed_length_window_example}
+题目：
+
 给你字符串 s 和整数 k 。
 请返回字符串 s 中长度为 k 的单个子字符串中可能包含的最大元音字母数。
 英文中的 元音字母 为（a, e, i, o, u）。
